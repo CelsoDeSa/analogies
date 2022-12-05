@@ -1,4 +1,4 @@
-# "The Liskov Substitution Principle is like a recipe. If a recipe calls for butter, you can substitute it for margarine and still get the same results."
+# The Liskov Substitution Principle is like a recipe. If a recipe calls for butter, you can substitute it for margarine and still get the same results.
 
 class Butter
   def spread
