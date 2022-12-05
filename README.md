@@ -1,4 +1,4 @@
-A series of Computer Science concepts explained with CPT-3's generated analogies and code examples.
+A series of Computer Science concepts explained with GPT-3's generated analogies and code examples.
 
 ## SOLID Principles
 
